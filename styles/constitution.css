@@ -80,7 +80,7 @@ ol > ol > li:before, ul > ol > li:before {
 }
 hr {
 	border: 1.2px solid #000000;
-	margin-top: 20px;
+	margin-top: 0px;
 	margin-bottom: 20px;
 }
 
