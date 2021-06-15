@@ -10,7 +10,7 @@ body {
 
 body::after {
 	content: "";
-  	background: url('//storage.proboards.com/7200422/images/Vaf0cAHIEgfdOrIAKGAY.jpeg');
+  	background: url('/images/pastel-palms.jpeg');
   	background-position: top center;
   	background-size: cover;
   	background-repeat: no-repeat;
